@@ -1,7 +1,7 @@
 variable "region" {
-  default = "eu-west-1"
+  default = "us-east-2"
 }
 
 variable "key_name" {
-  default = "arocki7"
+  default = "kmode11"
 }
